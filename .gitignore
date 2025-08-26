@@ -1,0 +1,4 @@
+# 填寫不要被git記錄的檔名或副檔名
+__pycache__/
+*.py[cod]
+.DS_Store
